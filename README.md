@@ -87,3 +87,5 @@ Type a message into the input field and send it by clicking "Send."
 See their message appear in the chat window instantly.
 Receive real-time updates when other users send messages.
 The chat window scrolls automatically to show the latest messages.
+
+![Image](https://github.com/user-attachments/assets/06a23249-28db-4148-990f-aeec7cc87e85)
