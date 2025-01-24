@@ -6,7 +6,7 @@
 **BATCH DURATION** : December 30th, 2024 to January 30th, 2025.
 **MENTOR NAME:** : Neela Santhosh Kumar
 # DESCRIPTION 
-This code creates a real-time chat application using HTML, CSS, and JavaScript integrated with WebSocket communication. Below is a detailed description of the tools, resources, libraries, and the workflow that produces the output.
+This code creates a real-time chat application using HTML, CSS integrated with WebSocket communication. Below is a detailed description of the tools, resources, libraries, and the workflow that produces the output.
 
 **Tools Used**
 Text Editor:
@@ -80,12 +80,13 @@ Though the server-side code is not provided, the WebSocket server is expected to
 Broadcast the received message to all connected clients using socket.broadcast.emit or io.emit.
 Handle errors and manage user connections.
 
-**Output:**
+**Output of the task**
 
 Users connected to the chat application can:
 Type a message into the input field and send it by clicking "Send."
 See their message appear in the chat window instantly.
 Receive real-time updates when other users send messages.
 The chat window scrolls automatically to show the latest messages.
+
 
 ![Image](https://github.com/user-attachments/assets/06a23249-28db-4148-990f-aeec7cc87e85)
